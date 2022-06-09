@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  rxswift-camera-filter
-//
-//  Created by Raphael Torquato on 08/06/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
