@@ -56,8 +56,6 @@ class PhotosCollectionViewController: UICollectionViewController {
         }
     }
     
-    
-    
     private func populatePhotos() {
         PHPhotoLibrary.requestAuthorization { [weak self ] status in
             if status == .authorized {
